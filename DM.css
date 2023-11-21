@@ -1,0 +1,267 @@
+header{
+    padding: 20px;
+
+    background-image: url(./assterts/Digital-Marketing-Background.jpg);    
+}
+.logoname{
+    margin: -25px 0 0 45px;
+}
+.link1{
+    text-decoration: none;
+    word-spacing: 30px;
+    margin-left: 10px;  
+    color: white; 
+}
+.link5{
+    text-decoration: none;
+    word-spacing: 30px;
+    margin-left: 10px;  
+    color: white; 
+}
+.link3{
+    text-decoration: none;
+    word-spacing: 30px;
+    margin-left: 10px;  
+    color: white; 
+}
+.link4{
+    text-decoration: none;
+    word-spacing: 30px;
+    margin-left: 10px;  
+    color: white; 
+}
+.but1{
+    border-radius: 20px;
+    border-color:whitesmoke;
+    color: white;
+    margin-left: 200px;
+    background-color:transparent ;
+}
+.but2{
+    background-color:transparent;
+    color: white;
+    border-radius: 35px;
+    padding: 10px 50px;
+}
+.but3{
+    border-radius: 35px;
+    padding: 20px 50px;
+    background-color: rgb(97, 255, 97);
+    color: white;
+    
+}
+.but4{
+    border-radius: 20px;
+    border-color:rgb(97, 255, 97) ;
+    color: rgb(97, 255, 97);
+    padding: 10px 50px;
+    background: transparent;
+}
+.but5{
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;  
+    background-color: rgb(97, 255, 97);
+    color: white;
+}
+.main{
+    margin-top: 130px;
+    color:white;
+}
+.mar{
+    text-decoration: underline wavy 
+}
+.brandlogo{
+    background-color: whitesmoke;
+}
+.link2{
+    color: rgb(97, 255, 97);
+}
+.help{
+    background-color: whitesmoke;
+}
+.Markethinkimg{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+}
+.imgg{
+    margin: -200px 0 0 170px;
+    color: white;
+}
+.tri{
+    margin-left: 100px;
+}
+.tri1{
+    margin-left: 50px;
+}
+.tri2{
+    margin-left: 80px;
+}
+.eye{
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 50px;
+   border-color:  rgb(97, 255, 97);
+}
+.back{
+background-image: url(./assterts/Digital-Marketing-Background.jpg);
+text-align: left;
+}
+.intext{
+color: white;
+margin-left: 60px;
+}
+.sub{
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;
+}
+.bmar{
+    color: black;
+}
+.under{
+    text-decoration: underline;
+    text-decoration-color:rgb(97, 255, 97);
+    text-underline-position: under;
+}
+.fb{
+    border: 1px solid;
+    border: 4px solid;
+    padding: 5px;
+    border-radius: 15px;
+    margin: -450px 0 0 0;
+    background-color: rgba(56, 59, 220, 0.395);
+    border-color: rgba(204, 192, 255, 0.296);
+}
+.insta{
+    border: 1px solid;
+    border: 4px solid;
+    background-color: rgba(255, 192, 203, 0.489);
+    border-color: rgba(255, 192, 203, 0.296);
+    padding: 5px;
+    border-radius: 15px;
+    margin: -450px 0 0 500px;
+    transform: rotate(30deg);
+    
+}
+.nlo{
+    border: 1px solid;
+    border: 2px solid;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 100px 0 0 580px; 
+    background-color: rgba(44, 44, 44, 0.489);
+    border-color: rgba(0, 0, 0, 0.296);
+}
+.vk{
+    border: 1px solid;
+    
+    padding: 5px;
+    border-radius: 15px;
+    margin: -300px 0 0 400px;   
+    background-color: rgba(56, 59, 220, 0.395);
+    border-color: rgba(88, 61, 205, 0.296);
+}
+.t{
+    border: 1px solid;
+    border: 2px solid;
+    padding: 5px;
+    border-radius: 15px;
+    margin: -300px 0 0 -360px;   
+    background-color: rgba(255, 192, 203, 0.489);
+    border-color: rgba(26, 25, 25, 0.018);  
+}
+
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.hover02 figure img {
+	width: 300px;
+	height: auto;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover02 figure:hover img {
+	width: 350px;
+}
+.eye {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .eye .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+  
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .eye:hover .tooltiptext {
+    visibility: visible;
+  }
+  /*  */
+  /* .dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  }
+  
+  .myprice {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .pricing-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .pricing-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .link5 a:hover {background-color: #ddd;}
+  
+  .show {display: block;} */
+  .card{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+  }
